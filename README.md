@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Samiksha.Naikwad
 
-<!--
-**samikshanaikwad/samikshanaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student passionate about technology, learning, and building projects that help me grow.  
+I enjoy exploring new tools, coding, and applying what I learn to real-world projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- 🎓 Currently studying: CSE(AI-ML) in KLS Vishwanathrao Deshpande Institute of Technology  
+- 🌟 Interests: Web Development, AI, Machine Learning, App Development  
+- 💡 Goal: To gain practical experience, improve my skills, and contribute to exciting projects  
+
+---
+
+## 💻 Skills & Tools
+- **Languages:** Python, C++, JavaScript  
+- **Web Development:** HTML, CSS, React  
+- **Databases & Tools:** MySQL, Git, VS Code  
+- **Other Interests:** AI experiments, Hackathons  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/samiksha-naikwad16   
+- Email: samikshanaikwad6@gmail.com  
+
+---
+
+✨ I’m eager to learn, build, and collaborate. Thanks for stopping by my profile!
