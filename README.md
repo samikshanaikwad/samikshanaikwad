@@ -22,13 +22,12 @@ I enjoy building useful software, experimenting with AI, and learning through re
 
 *Learn → Build → Experiment → Improve.*
 
-### `</>` TECHNOLOGIES & TOOLS
+### </> TECHNOLOGIES & TOOLS
 
-**Languages:** Python · C++ · JavaScript · TypeScript  
-**Web:** HTML5 · CSS3 · React  
-**Database:** MySQL  
-**Tools:** Git · GitHub · VS Code  
-**Interests:** Artificial Intelligence · Machine Learning · Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,html,css,mysql,git,github,vscode&perline=11"
+       alt="Python, C++, JavaScript, TypeScript, React, HTML, CSS, MySQL, Git, GitHub, VS Code" />
+</p>
 
 ### `</>` FEATURED PROJECTS
 
