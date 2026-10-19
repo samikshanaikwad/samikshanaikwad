@@ -1,29 +1,53 @@
-# 👋 Hi, I'm Samiksha.Naikwad
+<div align="center">
 
-I’m a student passionate about technology, learning, and building projects that help me grow.  
-I enjoy exploring new tools, coding, and applying what I learn to real-world projects.  
+# Hi, I'm Samiksha Naikwad 👋
 
----
+**SOFTWARE DEVELOPMENT · AI & ML**
 
-## 🌱 About Me
-- 🎓 Currently studying: CSE(AI-ML) in KLS Vishwanathrao Deshpande Institute of Technology  
-- 🌟 Interests: Web Development, AI, Machine Learning, App Development  
-- 💡 Goal: To gain practical experience, improve my skills, and contribute to exciting projects  
+*Building ideas into meaningful digital experiences.*
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samikshanaikwad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiksha-naikwad16)
+[![Email](https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:samikshanaikwad6@gmail.com)
 
-## 💻 Skills & Tools
-- **Languages:** Python, C++, JavaScript  
-- **Web Development:** HTML, CSS, React  
-- **Databases & Tools:** MySQL, Git, VS Code  
-- **Other Interests:** AI experiments, Hackathons  
+</div>
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/samiksha-naikwad16   
-- Email: samikshanaikwad6@gmail.com  
+### `</>` ABOUT ME
+
+I'm a **Computer Science (AI & ML) undergraduate** at **KLS Vishwanathrao Deshpande Institute of Technology**.
+
+I enjoy building useful software, experimenting with AI, and learning through real-world projects. I'm interested in **software development, web applications, and machine learning**, and I'm open to internships and opportunities to collaborate.
+
+*Learn → Build → Experiment → Improve.*
+
+### `</>` TECHNOLOGIES & TOOLS
+
+**Languages:** Python · C++ · JavaScript · TypeScript  
+**Web:** HTML5 · CSS3 · React  
+**Database:** MySQL  
+**Tools:** Git · GitHub · VS Code  
+**Interests:** Artificial Intelligence · Machine Learning · Web Development
+
+### `</>` FEATURED PROJECTS
+
+**🏛️ [Smart Bharat AI](https://github.com/samikshanaikwad/Smart_Bharat)**  
+An AI-assisted civic platform exploring grievance reporting, multilingual accessibility, and welfare scheme discovery.  
+`React` · `TypeScript` · `Google Gemini`
+
+**✋ [Touchless Illustrator](https://github.com/samikshanaikwad/mini_project)**  
+A hands-free digital drawing web application that uses hand gestures and voice commands to control drawing tools.  
+`JavaScript` · `MediaPipe Hands` · `Web Speech API` · `HTML/CSS`
+
+**🌤️ [Clima — AI Weather Chatbot](https://github.com/samikshanaikwad/weatherchatbot)**  
+A conversational weather assistant offering weather information and practical comfort suggestions.  
+`Voiceflow` · `JavaScript` · `HTML/CSS` · `OpenWeather API`
+
+### `</>` CONNECT WITH ME
+
+[LinkedIn](https://www.linkedin.com/in/samiksha-naikwad16) · [Email](mailto:samikshanaikwad6@gmail.com) · [GitHub](https://github.com/samikshanaikwad)
 
 ---
 
-✨ I’m eager to learn, build, and collaborate. Thanks for stopping by my profile!
+<div align="center"><sub>Thanks for stopping by! Always learning, building, and exploring what's next.</sub></div>
